@@ -1,6 +1,6 @@
-# Marky
+# NMdown
 
-Marky is a minimal terminal-based Markdown editor built with Python 3 and `ncurses`. It offers a clean editing experience with live syntax highlighting, autosave, and in-terminal search — all inside your terminal window.
+NMDown is a minimal terminal-based Markdown editor built with Python 3 and `ncurses`. It offers a clean editing experience with live syntax highlighting, autosave, and in-terminal search — all inside your terminal window.
 
 ---
 
@@ -40,16 +40,18 @@ You'll be prompted to enter a filename. If the file exists, it will be loaded. I
 ### Install via pip
 
 ```bash
-pip install markyy
+pip install mnmdown
 ```
 
 ### Or clone from GitHub
 
 ```bash
-git clone https://github.com/bearenbey/marky.git
-cd marky
+git clone https://github.com/bearenbey/nmdown.git
+cd nmdown
 pip install .
-markyy
+
+# Run
+nmdown
 ```
 
 ---
