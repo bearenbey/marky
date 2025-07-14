@@ -40,7 +40,7 @@ You'll be prompted to enter a filename. If the file exists, it will be loaded. I
 ### Install via pip
 
 ```bash
-pip install marky
+pip install markyy
 ```
 
 ### Or clone from GitHub
@@ -49,7 +49,7 @@ pip install marky
 git clone https://github.com/bearenbey/marky.git
 cd marky
 pip install .
-marky
+markyy
 ```
 
 ---

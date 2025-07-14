@@ -5,8 +5,8 @@ this_dir = pathlib.Path(__file__).parent
 readme = (this_dir / "README.md").read_text(encoding="utf-8")
 
 setup(
-    name="marky",
-    version="0.1.0",
+    name="markyy",
+    version="0.2.1",
     author="Eren Öğrül",
     author_email="termapp@pm.me",
     description="A terminal-based markdown editor using curses",

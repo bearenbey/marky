@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
-Name: marky
-Version: 0.1.0
+Name: markyy
+Version: 0.2.1
 Summary: A terminal-based markdown editor using curses
 Home-page: https://github.com/bearenbey/marky
 Author: Eren Öğrül
@@ -62,7 +62,7 @@ You'll be prompted to enter a filename. If the file exists, it will be loaded. I
 ### Install via pip
 
 ```bash
-pip install marky
+pip install markyy
 ```
 
 ### Or clone from GitHub
@@ -71,7 +71,7 @@ pip install marky
 git clone https://github.com/bearenbey/marky.git
 cd marky
 pip install .
-marky
+markyy
 ```
 
 ---
