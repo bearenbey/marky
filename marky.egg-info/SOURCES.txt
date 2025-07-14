@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+marky/__init__.py
+marky/cli.py
+marky.egg-info/PKG-INFO
+marky.egg-info/SOURCES.txt
+marky.egg-info/dependency_links.txt
+marky.egg-info/entry_points.txt
+marky.egg-info/top_level.txt
