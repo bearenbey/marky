@@ -37,21 +37,24 @@ You'll be prompted to enter a filename. If the file exists, it will be loaded. I
 
 ## Installation
 
-### Install via pip
+Install via pip:
 
 ```bash
-pip install mnmdown
+pip install nmdown
 ```
 
-### Or clone from GitHub
+Then run the app:
+
+```bash
+nmdown
+```
+
+To install from source:
 
 ```bash
 git clone https://github.com/bearenbey/nmdown.git
 cd nmdown
 pip install .
-
-# Run
-nmdown
 ```
 
 ---
