@@ -16,7 +16,7 @@ NMDown is a minimal terminal-based Markdown editor built with Python 3 and `ncur
 
 ---
 
-## ⌨️ Keybindings
+## Keybindings
 
 | Key Combo   | Action               |
 |------------|----------------------|
